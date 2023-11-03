@@ -1,3 +1,3 @@
 # markdown-test
 
-ream me file for markdown-test repo
+read me file for markdown-test repo
